@@ -4,7 +4,6 @@ I've also been an SEO consultant for 2 years (1 year in an agency and 1 year fre
 Why did you spend a year learning Python? To automate processes and create lots of scripts !
 
 Did you ask for my passions ? 
-- climbing
-- rock climbing
-- rock climbing
-(skiing, mountaineering, longboarding too) 
+- creating python scripts
+- SEO (search engine optimization)
+- rock climbing (skiing, mountaineering, longboarding too) 
